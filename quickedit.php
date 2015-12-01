@@ -31,11 +31,12 @@ function on_quick_edit_custom_box($columns, $post_type) {
     	echo  	"<div class=\"inline-edit-col\">";
     	echo 		"<div class=\"inline-edit-group\">";
     	echo 			"<label class=\"alignleft\">";
-		echo 				"<span class=\"title\" for=\"wpsl_locatorID\">Movie ID</span>";
-		echo 				"<input type=\"text\" name=\"wpsl_locatorID\" id=\"wpsl_locatorID\" value=\"\" />";
-    	echo 		"</label>";
+	echo 				"<span class=\"title\" for=\"wpsl_locatorID\">Movie ID</span>";
+	echo 				"<input type=\"text\" name=\"wpsl_locatorID\" id=\"wpsl_locatorID\" value=\"\" />";
+    	echo 			"</label>";
+    	echo 		"</div>";
     	echo 	"</div>";
-		echo "</fieldset>";
+	echo "</fieldset>";
     };
 }
 
