@@ -5,7 +5,7 @@
 ### Allows custom meta values for update Wordpress' quick and bulk update functions
 
 ***
-### [→ Example File ←](https://raw.githubusercontent.com/gst4158/WP-Custom-Meta-Quick-Bulk-Update/master/quickedit.php)
+### [→ Get the Code ←](https://raw.githubusercontent.com/gst4158/WP-Custom-Meta-Quick-Bulk-Update/master/quickedit.php)
 ***
 
 Installation
